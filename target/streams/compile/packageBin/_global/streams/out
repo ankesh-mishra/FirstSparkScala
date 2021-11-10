@@ -1,0 +1,9 @@
+[debug] Packaging C:\Users\Ankesh.Mishra\IdeaProjects\FirstScalaSpark\target\scala-2.12\firstscalaspark_2.12-0.1.jar ...
+[debug] Input file mappings:
+[debug] 	sparksql
+[debug] 	  C:\Users\Ankesh.Mishra\IdeaProjects\FirstScalaSpark\target\scala-2.12\classes\sparksql
+[debug] 	sparksql\FirstJob$.class
+[debug] 	  C:\Users\Ankesh.Mishra\IdeaProjects\FirstScalaSpark\target\scala-2.12\classes\sparksql\FirstJob$.class
+[debug] 	sparksql\FirstJob.class
+[debug] 	  C:\Users\Ankesh.Mishra\IdeaProjects\FirstScalaSpark\target\scala-2.12\classes\sparksql\FirstJob.class
+[debug] Done packaging.
