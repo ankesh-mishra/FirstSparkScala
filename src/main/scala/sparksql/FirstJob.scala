@@ -29,7 +29,7 @@ object FirstJob {
 
       df1.show()
 
-
+      // stop spark application
       spark.stop()
     }
 }
